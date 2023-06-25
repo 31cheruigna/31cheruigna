@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @31cheruigna
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on mchine learning
+- 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me email ignasielec21@gmail.com
 
 <!---
